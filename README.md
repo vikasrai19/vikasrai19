@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 <b> Connect with me :</b>
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/vikasrai19/vikasrai19/main/assets/icons_with_padding/facebook.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href="https://www.instagram.com/_v.i.k.a.s_r.a.i_/"> 
+<img align=”left” src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt=”icon | LinkedIn” width="20px"/></a>
 
-https://www.instagram.com/_v.i.k.a.s_r.a.i_/
+
 
 <b> Programming Languages : </b>
 
