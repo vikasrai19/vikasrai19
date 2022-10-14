@@ -77,6 +77,10 @@ Here are some ideas to get you started:
 
 <br>
 
+![](https://github-readme-stats.vercel.app/api?username=vikasrai19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikasrai19&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![Vikas Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasrai19)](https://github.com/vikasrai19/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&layout=compact)](https://github.com/vikasrai19)
