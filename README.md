@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I love developing new technologies and building stuffs.
 
-<br> 
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrai19&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
 
 <b> Connect with me :</b>
 
-<a href="https://www.instagram.com/_v.i.k.a.s_r.a.i_/"> 
+<a href="https://www.instagram.com/_v.i.k.a.s_r.a.i_/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_v.i.k.a.s_r.a.i_" height="30" width="40" /></a>
 
 
