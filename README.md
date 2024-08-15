@@ -1,24 +1,20 @@
-### Hi there 👋
-
-
-<!-- **vikasrai19/vikasrai19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as FreeLancer on multiple real world project
-- 🌱 I’m currently learning Django framework and ML
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love developing new technologies and building stuffs.
+<h1 align="center">Hi 👋, I'm Vikas Rai</h1>
+<h3 align="center">Full Stack Developer | ML & AI Enthusiast</h3>
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<p>I develop backend servers, web frontends, and mobile apps with Flutter. Passionate about building machine learning and AI models. Check out my projects and collaborate! </p>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrai19&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
 
 <b> Connect with me :</b>
+
+<p align="start">
+  <!-- <a href="https://www.vivianserrao.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a> -->
+  <a href="mailto:vikasrai1906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/vikasrai19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/vikasrai1906/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
 <a href="https://www.instagram.com/_v.i.k.a.s_r.a.i_/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_v.i.k.a.s_r.a.i_" height="30" width="40" /></a>
@@ -37,7 +33,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></p>
 
 <br>
 
