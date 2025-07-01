@@ -5,12 +5,11 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrai19&label=Profile%20views&color=0e75b6&style=flat" alt="bhavishassai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasrai19&label=Profile%20views&color=0e75b6&style=flat" alt="Vikas Rai" /> </p>
 
 <b> Connect with me :</b>
 
 <p align="start">
-  <!-- <a href="https://www.vivianserrao.com" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a> -->
   <a href="mailto:vikasrai1906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/vikasrai19" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://leetcode.com/u/vikasrai1906/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
@@ -81,4 +80,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&layout=compact)](https://github.com/vikasrai19)
 
 
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.vikasrai19)](https://www.yushi.dev/) -->
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.vikasrai19)](https://www.yushi.dev/)
