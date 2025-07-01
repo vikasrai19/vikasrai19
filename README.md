@@ -80,4 +80,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasrai19&layout=compact)](https://github.com/vikasrai19)
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.vikasrai19)](https://www.yushi.dev/)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.vikasrai19)](https://www.yushi.dev/) -->
